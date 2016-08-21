@@ -1,6 +1,6 @@
 # Flow's Tensorflow Component
 
-*This is a work-in-progress. The program may be buggy. You are warned!*
+*This is work-in-progress. The program may be buggy. You are warned!*
 
 This is intended to be used with [Flow](https://github.com/sorpaas/flow). It
 parses Flow's graph JSON representation and uses tensorflow to train it
